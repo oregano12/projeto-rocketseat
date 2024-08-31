@@ -1,0 +1,46 @@
+PARE:
+
+Perguntar (pesquisar)
+Anotar (escrever)
+Revisar (lembrar)
+Explicar (falar)
+
+Pomodoro:
+
+25 minutos sem interrupcão
+5 minutos descanso
+na quarta vez 15 minutos de descanso
+
+1 pomodoro são: 2h10min
+6 pomodoros por dia para produção máxima: 13h
+
+Lozanov:
+
+música de fundo de 60-70bpm
+(clássica e lo-fi)
+
+Feymann:
+
+1-Estudar assunto
+2-Explicar assunto para criança de quinta série (voz alta)
+3-Identificar falhas
+4-Simplificar, melhorar e voltar a estudar o assunto
+
+Active Recall:
+
+1-Assistir, ler e ouvir
+2-Anotações: bullet points, mapas mentais e prints
+3-Puxar da memória: codar
+
+funções de JS:
+
+function sayHello(name) {
+  return "Olá " + name
+}
+
+const celular = {
+   cor: "Preto",
+   ligar: function() {
+     alert("Ligando")
+    }
+}
